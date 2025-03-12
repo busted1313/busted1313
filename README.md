@@ -11,7 +11,7 @@
      1. I'm very smart.
      2. I'm born X
      3. I'm ABC(Anhui, Bengbu, China)
--      
+-  My belief: 大道至简。Simple is not easy.    
 
 <!---
 busted1313/busted1313 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
